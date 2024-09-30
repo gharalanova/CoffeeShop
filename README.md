@@ -1,4 +1,4 @@
-# cherryCoffeeShop
+# CoffeeShop
 
 The Coffee Shop app has the following features:
 
